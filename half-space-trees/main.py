@@ -7,8 +7,8 @@ import utils.baseline as bl
 
 if __name__ == "__main__":
     # have you labels.csv and data csvs stored in ./phase_1/ folder inside the main folder
-    labels_location = "./phase_1/labels.csv"
-    anomaly_location = "./phase_1"
+    labels_location = "./half-space-trees/phase_1/labels.csv"
+    anomaly_location = "./half-space-trees/phase_1"
     # bl.enrich_csv_data(labels=labels_location, anomalie_files=anomaly_location) ## do when you run main for the very first time to create enriched csvs
 
     count = 0
