@@ -1,0 +1,34 @@
+{
+  "libraries": [
+    {
+      "name": "StackedSingleTargetHoeffdingTreeRegressor",
+      "to_analyze": true,
+      "to_visualize": false
+    },
+    {
+      "name": "KNNRegressor",
+      "to_analyze": true,
+      "to_visualize": false
+    },
+    {
+      "name": "iSOUPTreeRegressor",
+      "to_analyze": true,
+      "to_visualize": false
+    },
+    {
+      "name": "HoeffdingTreeRegressor",
+      "to_analyze": true,
+      "to_visualize": false
+    },
+    {
+      "name": "HoeffdingAdaptiveTreeRegressor",
+      "to_analyze": true,
+      "to_visualize": false
+    },
+    {
+      "name": "AdaptiveRandomForestRegressor",
+      "to_analyze": true,
+      "to_visualize": false
+    }
+  ]
+}
